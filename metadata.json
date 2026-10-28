@@ -1,0 +1,8 @@
+{
+  "name": "Remix MachineGuard AI",
+  "description": "Industrial Predictive Maintenance System featuring digital twin telemetry, failure risk prediction, anomaly detection, and real AI4I 2020 ML models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

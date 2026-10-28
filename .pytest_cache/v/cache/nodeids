@@ -1,0 +1,10 @@
+[
+  "tests/test_model.py::test_anomaly_detector",
+  "tests/test_model.py::test_database_crud",
+  "tests/test_model.py::test_dataset_exists_and_valid",
+  "tests/test_model.py::test_digital_twin_simulation",
+  "tests/test_model.py::test_predictor_heat_dissipation_failure_hdf",
+  "tests/test_model.py::test_predictor_nominal_machine",
+  "tests/test_model.py::test_predictor_overstrain_failure_osf",
+  "tests/test_model.py::test_predictor_tool_wear_failure_twf"
+]
